@@ -1,0 +1,426 @@
+{
+    "question": "Zijn de werkzaamheden binnen de invloedssfeer van de weg? (GOW-50 <30,m uit rijbaan of GOW-70/80 4,50 uit rijbaan)",
+    "answers": {
+      "No": { "result": "Geen verkeersmaatregel noodzakelijk" },
+      "Yes": {
+        "question_1": {
+          "question": "Kunnen de werkzaamheden zonder omleiding uitgevoerd worden?",
+          "answers": {
+            "No": { "result": "Prijs uitvragen bij OA verkeersmaatregelen" },
+            "Yes": {
+              "question_1": {
+                "question": "Zijn de werkzaamheden (semi)dynamisch?",
+                "answers": {
+                  "No": {
+                    "question_1": {
+                      "question": "Zijn de werkzaamheden buiten de invloedssfeer van een kruispunt?",
+                      "answers": {
+                        "No": {
+                          "question_1": {
+                            "question": "Tijdsduur van de werkzaamheden \u2264 2 uur?",
+                            "answers": {
+                              "No": {
+                                "question_1": {
+                                  "question": "Tijdsduur van de werkzaamheden \u2264 1 dag?",
+                                  "answers": {
+                                    "No": {
+                                      "question_1": {
+                                        "question": "Werken naast de rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1331" },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_2": {
+                                        "question": "Werken direct naast de rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1332" },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_3": {
+                                        "question": "Werken van of op de rijbaan",
+                                        "answers": {
+                                          "No": {
+                                            "result": "Fig. 1333, Fig. 1334, Fig. 1335, Fig. 1341, Fig. 1342"
+                                          },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_4": {
+                                        "question": "Werken op volledige rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1336 " },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "Yes": {
+                                      "question_1": {
+                                        "question": "Werken naast de rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1332" },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_2": {
+                                        "question": "Werken direct naast de rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1332" },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_3": {
+                                        "question": "Werken van of op de rijbaan",
+                                        "answers": {
+                                          "No": {
+                                            "result": "Fig. 1333, Fig. 1334, Fig. 1335, Fig. 1341, Fig. 1342"
+                                          },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_4": {
+                                        "question": "Werken op volledige rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1336 " },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "Yes": {
+                                "question_1": {
+                                  "question": "Werken naast de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1301" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_2": {
+                                  "question": "Werken direct naast de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1303" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_3": {
+                                  "question": "Werken van of op de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1322b, Fig. 1323b" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_4": {
+                                  "question": "Werken op volledige rijbaan",
+                                  "answers": {
+                                    "No": {
+                                      "result": "afsluiten en omleiden, Uitvragen bij OA verkeersmaatregelen"
+                                    },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        },
+                        "Yes": {
+                          "question_1": {
+                            "question": "Tijdsduur van de werkzaamheden \u2264 2 uur?",
+                            "answers": {
+                              "No": {
+                                "question_1": {
+                                  "question": "Tijdsduur van de werkzaamheden \u2264 1 dag?",
+                                  "answers": {
+                                    "No": {
+                                      "question_1": {
+                                        "question": "Kan het verkeer over een tijdelijke rijbaan (verbreding) afgewikkeld worden?",
+                                        "answers": {
+                                          "No": {
+                                            "question_1": {
+                                              "question": "Werken direct naast de rijbaan",
+                                              "answers": {
+                                                "No": { "result": "Fig. 1309" },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            },
+                                            "question_2": {
+                                              "question": "Werken van of op de rijbaan",
+                                              "answers": {
+                                                "No": {
+                                                  "result": "Fig. 1307, Fig. 1309"
+                                                },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            },
+                                            "question_3": {
+                                              "question": "Werken op volledige rijbaan",
+                                              "answers": {
+                                                "No": {
+                                                  "result": "Fig. 1309, Fig. 1309"
+                                                },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            }
+                                          },
+                                          "Yes": {
+                                            "question_1": {
+                                              "question": "Werken naast de rijbaan",
+                                              "answers": {
+                                                "No": { "result": "Fig. 1302" },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            },
+                                            "question_2": {
+                                              "question": "Werken direct naast de rijbaan",
+                                              "answers": {
+                                                "No": {
+                                                  "result": "Fig. 1304,Fig. 1305"
+                                                },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            },
+                                            "question_3": {
+                                              "question": "Werken van of op de rijbaan",
+                                              "answers": {
+                                                "No": { "result": "Fig. 1306" },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            },
+                                            "question_4": {
+                                              "question": "Werken op volledige rijbaan",
+                                              "answers": {
+                                                "No": {
+                                                  "result": "afsluiten en omleiden, Uitvragen bij OA verkeersmaatregelen "
+                                                },
+                                                "Yes": {
+                                                  "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    },
+                                    "Yes": {
+                                      "question_1": {
+                                        "question": "Werken naast de rijbaan",
+                                        "answers": {
+                                          "No": {
+                                            "result": "Fig. 1301, Fig. 1302"
+                                          },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_2": {
+                                        "question": "Werken direct naast de rijbaan",
+                                        "answers": {
+                                          "No": {
+                                            "result": "Fig. 1303, Fig. 1304, Fig. 1306"
+                                          },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_3": {
+                                        "question": "Werken van of op de rijbaan",
+                                        "answers": {
+                                          "No": { "result": "Fig. 1306" },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      },
+                                      "question_4": {
+                                        "question": "Werken op volledige rijbaan",
+                                        "answers": {
+                                          "No": {
+                                            "result": "afsluiten en omleiden, Uitvragen bij OA verkeersmaatregelen"
+                                          },
+                                          "Yes": {
+                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              },
+                              "Yes": {
+                                "question_1": {
+                                  "question": "Werken naast de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1301" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_2": {
+                                  "question": "Werken direct naast de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1303" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_3": {
+                                  "question": "Werken van of op de rijbaan",
+                                  "answers": {
+                                    "No": { "result": "Fig. 1322b, Fig. 1323b" },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                },
+                                "question_4": {
+                                  "question": "Werken op volledige rijbaan",
+                                  "answers": {
+                                    "No": {
+                                      "result": "afsluiten en omleiden, Uitvragen bij OA verkeersmaatregelen"
+                                    },
+                                    "Yes": {
+                                      "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "Yes": {
+                    "question_1": {
+                      "question": "Zijn de wegwerkers buiten het voertuig?",
+                      "answers": {
+                        "No": {
+                          "question_1": {
+                            "question": "Werken naast de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1321c/d" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_2": {
+                            "question": "Werken direct naast de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1322b" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_3": {
+                            "question": "Werken van of op de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1322b, Fig. 1323b" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_4": {
+                            "question": "Werken op volledige rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1324" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          }
+                        },
+                        "Yes": {
+                          "question_1": {
+                            "question": "Werken naast de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1301, Fig. 1321c/d" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_2": {
+                            "question": "Werken direct naast de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1322b" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_3": {
+                            "question": "Werken van of op de rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1322b,Fig. 1323b" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          },
+                          "question_4": {
+                            "question": "Werken op volledige rijbaan",
+                            "answers": {
+                              "No": { "result": "Fig. 1324" },
+                              "Yes": {
+                                "result": "Prijs uitvragen bij OA verkeersmaatregelen"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  

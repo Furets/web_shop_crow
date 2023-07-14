@@ -1,0 +1,27 @@
+{
+    "question": "Are you good? ",
+    "answers": {
+        "Yes": {
+            "result": "That is good "
+        },
+        "No": {
+            "question": "How are you?",
+            "answers": {
+                "Better": {
+                    "result": "That is nice"
+                },
+                "worse ": {
+                    "question": "CAn i help? ",
+                    "answers": {
+                        "Yes": {
+                            "result": "Great "
+                        },
+                        "No": {
+                            "result": "Sad.."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
