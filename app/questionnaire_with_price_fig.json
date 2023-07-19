@@ -14,8 +14,11 @@
                                     "question": "Waar zijn de werkzaamheden?",
                                     "answers": {
                                         "Werken naast de rijbaan": {
-                                            "result": "Fig. 1301, Fig. 1321c, Fig. 1321d",
+                                            "result": "Your Images!",
                                             "price": [
+                                                0,
+                                                0,
+                                                0,
                                                 0,
                                                 0,
                                                 0
@@ -23,14 +26,26 @@
                                             "price_per_meter": [
                                                 0,
                                                 0,
+                                                0,
+                                                0,
+                                                0,
                                                 0
                                             ],
                                             "price_for_workers": [
                                                 0,
                                                 0,
+                                                0,
+                                                0,
+                                                0,
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [
+                                                {"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"},
+                                                {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"}
+                                            ]
                                         },
                                         "Werken direct naast de rijbaan": {
                                             "result": "Fig. 1322b",
@@ -43,10 +58,10 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"}]
                                         },
                                         "Werken van of op de rijbaan": {
-                                            "result": "Fig. 1322b, Fig. 1323b",
+                                            "result": "Result",
                                             "price": [
                                                 0,
                                                 0
@@ -57,9 +72,10 @@
                                             ],
                                             "price_for_workers": [
                                                 0,
-                                                0
+                                                865
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
+                                            {"name": "Fig. 1323b", "url": "../fig/1322b.jpeg"}]
                                         },
                                         "Werken op volledige rijbaan": {
                                             "result": "Fig. 1324",
@@ -72,7 +88,7 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
                                         }
                                     }
                                 },
@@ -80,7 +96,7 @@
                                     "question": "Waar zijn de werkzaamheden?",
                                     "answers": {
                                         "Werken naast de rijbaan": {
-                                            "result": "Fig. 1321c, Fig. 1321d",
+                                            "result": "Result",
                                             "price": [
                                                 0,
                                                 0
@@ -93,10 +109,11 @@
                                                 0,
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1321c", "url": "../fig/1321c.jpeg"},
+                                            {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"}]
                                         },
                                         "Werken direct naast de rijbaan": {
-                                            "result": "Fig. 1322b",
+                                            "result": "Result",
                                             "price": [
                                                 0
                                             ],
@@ -106,10 +123,10 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"}]
                                         },
                                         "Werken van of op de rijbaan": {
-                                            "result": "Fig. 1322b, Fig. 1323b",
+                                            "result": "Result",
                                             "price": [
                                                 0,
                                                 0
@@ -122,10 +139,10 @@
                                                 0,
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
                                         },
                                         "Werken op volledige rijbaan": {
-                                            "result": "Fig. 1324",
+                                            "result": "Result",
                                             "price": [
                                                 0
                                             ],
@@ -135,7 +152,7 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": []
+                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
                                         }
                                     }
                                 }
@@ -154,30 +171,57 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Fig. 1301a, Fig. 1301b, Fig. 1301c, Fig. 1301d",
                                                             "price": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "price_for_lights": [
+                                                                0
+                                                            ],
+                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                        {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                        {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                        {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1301",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                        {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                        {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                        {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}]
                                                         }
                                                     }
                                                 },
@@ -185,30 +229,42 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "price_for_lights": [
+                                                                0
+                                                            ],
+                                                            "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
+                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1303",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
                                                                 0
+
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
+                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
                                                         }
                                                     }
                                                 },
@@ -216,20 +272,28 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Result",
                                                             "price": [
-                                                                0
+                                                                0,
+                                                                865
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "price_for_lights": [
+                                                                0,
+                                                                0
+                                                            ],
+                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
+                                                                {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1322b, Fig. 1323b",
+                                                            "result": "Result",
                                                             "price": [
                                                                 0,
                                                                 0
@@ -240,9 +304,10 @@
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
-                                                                0
+                                                                865
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
+                                                                {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
                                                         }
                                                     }
                                                 },
@@ -258,6 +323,9 @@
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0
+                                                            ],
+                                                            "price_for_lights": [
                                                                 0
                                                             ],
                                                             "figures": []
@@ -289,33 +357,75 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        51,
+                                                                        51
                                                                     ],
                                                                     "price_per_meter": [
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        330,
+                                                                        330
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"},
+                                                                                {"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
+                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                    ]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1301, Fig. 1302",
+                                                                    "result": "Result",
                                                                     "price": [
                                                                         0,
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        51,
+                                                                        51
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
                                                                         0,
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        330,
+                                                                        330
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"},
+                                                                                {"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
+                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -323,21 +433,48 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        450,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        880,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        645,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
+                                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"},
+                                                                                {"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
+                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
+                                                                                {"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"}
+                                                                    ]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1303, Fig. 1304, Fig. 1306",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0,
                                                                         0,
                                                                         0
@@ -345,14 +482,26 @@
                                                                     "price_per_meter": [
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
+                                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"},
+                                                                                {"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
+                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
+                                                                                {"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"}
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -360,30 +509,51 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        725
                                                                     ],
                                                                     "price_per_meter": [
-                                                                        0
+                                                                        0,
+                                                                        0,
+                                                                        820
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
+                                                                        1060
+                                                                    ],
+                                                                    "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
+                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
+                                                                        ]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1306",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
+                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
+                                                                        ]
                                                                 }
                                                             }
                                                         },
@@ -430,30 +600,43 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Result",
                                                                             "price": [
-                                                                                0
+                                                                                51,
+                                                                                51
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                330,
+                                                                                330
+                                                                            ],
+                                                                            "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
+                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1302",
+                                                                            "result": "Result",
                                                                             "price": [
-                                                                                0
+                                                                                51,
+                                                                                51
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
-                                                                                0
+                                                                                330,
+                                                                                330
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
+                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 },
@@ -461,33 +644,59 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "price_for_lights": [
+                                                                                0
+                                                                            ],
+                                                                            "figures": [{"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
+                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
+                                                                                {"name": "Fig. 1305a", "url": "../fig/1305a.jpeg"},
+                                                                                {"name": "Fig. 1305b", "url": "../fig/1305b.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1304, Fig. 1305",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
                                                                                 0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
                                                                                 0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
                                                                                 0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
+                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
+                                                                                {"name": "Fig. 1305a", "url": "../fig/1305a.jpeg"},
+                                                                                {"name": "Fig. 1305b", "url": "../fig/1305b.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 },
@@ -495,30 +704,51 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "price_for_lights": [
+                                                                                0
+                                                                            ],
+                                                                            "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
+                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1306",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
+                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
+                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 },
@@ -562,30 +792,43 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Fig. 1309a, Fig. 1309b",
                                                                             "price": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "price_for_lights": [
+                                                                                0
+                                                                            ],
+                                                                            "figures": [{"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1309",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 },
@@ -593,33 +836,51 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "price_for_lights": [
+                                                                                0
+                                                                            ],
+                                                                            "figures": [{"name": "Fig. 1307", "url": "../fig/1307.jpeg"},
+                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1307, Fig. 1309",
+                                                                            "result": "Result",
                                                                             "price": [
+                                                                                0,
                                                                                 0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
                                                                                 0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
                                                                                 0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1307", "url": "../fig/1307.jpeg"},
+                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 },
@@ -627,33 +888,59 @@
                                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                                     "answers": {
                                                                         "Yes": {
-                                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                            "result": "Fig. 1308a, Fig. 1308b, Fig. 1309a, Fig. 1309b",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
+                                                                                0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "price_for_lights": [
+                                                                                0
+                                                                            ],
+                                                                            "figures": [{"name": "Fig. 1308a", "url": "../fig/1308a.jpeg"},
+                                                                                {"name": "Fig. 1308b", "url": "../fig/1308b.jpeg"},
+                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         },
                                                                         "No": {
-                                                                            "result": "Fig. 1308, Fig. 1309",
+                                                                            "result": "Fig. 1308a, Fig. 1308b, Fig. 1309a, Fig. 1309b",
                                                                             "price": [
+                                                                                0,
+                                                                                0,
                                                                                 0,
                                                                                 0
                                                                             ],
                                                                             "price_per_meter": [
                                                                                 0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
                                                                             "price_for_workers": [
                                                                                 0,
+                                                                                0,
+                                                                                0,
                                                                                 0
                                                                             ],
-                                                                            "figures": []
+                                                                            "figures": [{"name": "Fig. 1308a", "url": "../fig/1308a.jpeg"},
+                                                                                {"name": "Fig. 1308b", "url": "../fig/1308b.jpeg"},
+                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
+                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
+                                                                        ]
                                                                         }
                                                                     }
                                                                 }
@@ -675,30 +962,59 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "price_for_lights": [
+                                                                0
+                                                            ],
+                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}
+                                                                        ]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1301",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
+                                                                0,
+                                                                0,
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
+                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
+                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
+                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}
+                                                                        ]
                                                         }
                                                     }
                                                 },
@@ -706,7 +1022,7 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Result",
                                                             "price": [
                                                                 0
                                                             ],
@@ -716,10 +1032,13 @@
                                                             "price_for_workers": [
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "price_for_lights": [
+                                                                0
+                                                            ],
+                                                            "figures": [{"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1303",
+                                                            "result": "Result",
                                                             "price": [
                                                                 0
                                                             ],
@@ -729,7 +1048,7 @@
                                                             "price_for_workers": [
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
                                                         }
                                                     }
                                                 },
@@ -737,20 +1056,27 @@
                                                     "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                     "answers": {
                                                         "Yes": {
-                                                            "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                            "result": "Result",
                                                             "price": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_per_meter": [
+                                                                0,
                                                                 0
                                                             ],
                                                             "price_for_workers": [
+                                                                0,
+                                                                865
+                                                            ],
+                                                            "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
+                                                            {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
                                                         },
                                                         "No": {
-                                                            "result": "Fig. 1322b, Fig. 1323b",
+                                                            "result": "Result",
                                                             "price": [
                                                                 0,
                                                                 0
@@ -761,9 +1087,10 @@
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
-                                                                0
+                                                                865
                                                             ],
-                                                            "figures": []
+                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
+                                                            {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
                                                         }
                                                     }
                                                 },
@@ -810,30 +1137,49 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures":  [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
+                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
+                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1331",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
+                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
+                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -841,30 +1187,49 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures":[{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
+                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
+                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1332",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
+                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
+                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -872,21 +1237,65 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Fig. 1333a, Fig. 1333b, Fig. 1333c, Fig. 1334a, Fig. 1334b, Fig. 1335a, Fig. 1335b, Fig. 1341a, Fig. 1341b, Fig. 1342",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
+                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
+                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
+                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
+                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
+                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
+                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
+                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
+                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
+                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1333, Fig. 1334, Fig. 1335, Fig. 1341, Fig. 1342",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0,
                                                                         0,
                                                                         0,
@@ -898,6 +1307,11 @@
                                                                         0,
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
@@ -905,9 +1319,23 @@
                                                                         0,
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
+                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
+                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
+                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
+                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
+                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
+                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
+                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
+                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
+                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -915,30 +1343,49 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
+                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
+                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1336 + afsluiten en omleiden",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
+                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
+                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
                                                                 }
                                                             }
                                                         }
@@ -951,30 +1398,49 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
+                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
+                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1331",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
+                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
+                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -982,30 +1448,49 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
+                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
+                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1332",
+                                                                    "result": "result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
+                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
+                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -1013,21 +1498,65 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
+                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
+                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
+                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
+                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
+                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
+                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
+                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
+                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
+                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1333, Fig. 1334, Fig. 1335, Fig. 1341, Fig. 1342",
+                                                                    "result": "Results",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0,
                                                                         0,
                                                                         0,
@@ -1039,6 +1568,11 @@
                                                                         0,
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
@@ -1046,9 +1580,23 @@
                                                                         0,
                                                                         0,
                                                                         0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
+                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
+                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
+                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
+                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
+                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
+                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
+                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
+                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
+                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
                                                                 }
                                                             }
                                                         },
@@ -1056,30 +1604,51 @@
                                                             "question": "Dient er tijdelijke verlichting toegepast te worden?",
                                                             "answers": {
                                                                 "Yes": {
-                                                                    "result": "Prijs uitvragen bij OA verkeersmaatregelen",
+                                                                    "result": "Result",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "price_for_lights": [
+                                                                        0
+                                                                    ],
+                                                                    "figures": [
+                                                                                {"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
+                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
+                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
                                                                 },
                                                                 "No": {
-                                                                    "result": "Fig. 1336 + afsluiten en omleiden",
+                                                                    "result": "Results",
                                                                     "price": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_per_meter": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
                                                                     "price_for_workers": [
+                                                                        0,
+                                                                        0,
                                                                         0
                                                                     ],
-                                                                    "figures": []
+                                                                    "figures": [
+                                                                                {"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
+                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
+                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
                                                                 }
                                                             }
                                                         }

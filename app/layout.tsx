@@ -12,8 +12,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" className='h-full'>
-      <body className='h-full p-3 flex items-center justify-center bg-black text-white'>{children}</body>
+    <html lang="en">
+      <body className='p-3 flex items-center justify-center bg-black text-white'>{children}</body>
     </html>
   )
 }

@@ -1,11 +1,14 @@
-import Questionnaire from './components/Questionnaire'
+import React from 'react';
+import Questionnaire from './components/Questionnaire';
 
-export default function Home() {
+const Page: React.FC = () => {
   return (
-    <div className='md:max-w-xl md:min-w-min'>
+    <div className='px-3'>
       <div>
         <Questionnaire />
       </div>
     </div>
-  )
-}
+  );
+};
+
+export default Page;
