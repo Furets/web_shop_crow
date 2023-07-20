@@ -23,10 +23,10 @@ const Questionnaire: React.FC = () => {
     const [currentQuestion, setCurrentQuestion] = useState<Question>(questionsData);
     const [result, setResult] = useState<string>('');
     const [history, setHistory] = useState<Question[]>([]);
-    const [figures, setFigures] = useState<string[]>([]);
     const [selectedDays, setSelectedDays] = useState<number | null>(null);
-    const [totalPricePow, setTotalPricePow] = useState<number>(10)
-    const [totalLen, settotalLen] = useState<number>(10)
+    const [totalPricePow, setTotalPricePow] = useState<number>(10);
+    const [totalLen, settotalLen] = useState<number>(10);
+    const [figures, setFigures] = useState<{ url: string; name: string; totalPrice: number; }[]>([]);;
 
     useEffect(() => {
     if (currentQuestion.figures) {
@@ -59,7 +59,7 @@ const Questionnaire: React.FC = () => {
     const handleDaysSelection = (days: number) => {
         setSelectedDays(days);
     };
-   
+
 
     const renderQuestions = () => {
         const questionKeys = ['question_1', 'question_2', 'question_3', 'question_4'];
@@ -146,6 +146,12 @@ const Questionnaire: React.FC = () => {
         return <button className="btn mr-1" onClick={() => reset()}>Reset</button>;
     };
 
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
+    // @ts-ignore
     return (
         <div>
             {selectedDays === null ? (
@@ -160,7 +166,7 @@ const Questionnaire: React.FC = () => {
                             <div className="flex flex-row">
                                 {figures.map((figure, index) => (
                                     <div className="basis-1/4" key={index}>
-                                        <Figure figure={figure}/>
+                                        <Figure figure = {figure}  />
                                     </div>
                                 ))}
                             </div>
