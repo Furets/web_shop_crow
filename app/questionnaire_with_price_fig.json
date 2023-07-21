@@ -14,9 +14,9 @@
                                     "question": "Waar zijn de werkzaamheden?",
                                     "answers": {
                                         "Werken naast de rijbaan": {
-                                            "result": "Your Images!",
+                                            "result": "Result",
                                             "price": [
-                                                0,
+                                                1000,
                                                 0,
                                                 0,
                                                 0,
@@ -24,7 +24,7 @@
                                                 0
                                             ],
                                             "price_per_meter": [
-                                                0,
+                                                1000,
                                                 0,
                                                 0,
                                                 0,
@@ -32,7 +32,7 @@
                                                 0
                                             ],
                                             "price_for_workers": [
-                                                0,
+                                                2,
                                                 0,
                                                 0,
                                                 0,
