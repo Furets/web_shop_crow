@@ -16,7 +16,7 @@
                                         "Werken naast de rijbaan": {
                                             "result": "Result",
                                             "price": [
-                                                1000,
+                                                0,
                                                 0,
                                                 0,
                                                 0,
@@ -24,7 +24,7 @@
                                                 0
                                             ],
                                             "price_per_meter": [
-                                                1000,
+                                                0,
                                                 0,
                                                 0,
                                                 0,
@@ -32,7 +32,7 @@
                                                 0
                                             ],
                                             "price_for_workers": [
-                                                2,
+                                                0,
                                                 0,
                                                 0,
                                                 0,
@@ -40,11 +40,26 @@
                                                 0
                                             ],
                                             "figures": [
-                                                {"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"},
-                                                {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"}
+                                                {
+                                                    "name": "Fig. 1301a",
+                                                    "url": "../fig/1301a.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1301b",
+                                                    "url": "../fig/1301b.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1301c",
+                                                    "url": "../fig/1301c.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1321d",
+                                                    "url": "../fig/1321d.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1321d",
+                                                    "url": "../fig/1321d.jpeg"
+                                                }
                                             ]
                                         },
                                         "Werken direct naast de rijbaan": {
@@ -58,7 +73,12 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1322b",
+                                                    "url": "../fig/1322b.jpeg"
+                                                }
+                                            ]
                                         },
                                         "Werken van of op de rijbaan": {
                                             "result": "Result",
@@ -74,8 +94,16 @@
                                                 0,
                                                 865
                                             ],
-                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
-                                            {"name": "Fig. 1323b", "url": "../fig/1322b.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1322b",
+                                                    "url": "../fig/1322b.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1323b",
+                                                    "url": "../fig/1322b.jpeg"
+                                                }
+                                            ]
                                         },
                                         "Werken op volledige rijbaan": {
                                             "result": "Fig. 1324",
@@ -88,7 +116,12 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1324",
+                                                    "url": "../fig/1324.jpeg"
+                                                }
+                                            ]
                                         }
                                     }
                                 },
@@ -109,8 +142,16 @@
                                                 0,
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1321c", "url": "../fig/1321c.jpeg"},
-                                            {"name": "Fig. 1321d", "url": "../fig/1321d.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1321c",
+                                                    "url": "../fig/1321c.jpeg"
+                                                },
+                                                {
+                                                    "name": "Fig. 1321d",
+                                                    "url": "../fig/1321d.jpeg"
+                                                }
+                                            ]
                                         },
                                         "Werken direct naast de rijbaan": {
                                             "result": "Result",
@@ -123,7 +164,12 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1322b",
+                                                    "url": "../fig/1322b.jpeg"
+                                                }
+                                            ]
                                         },
                                         "Werken van of op de rijbaan": {
                                             "result": "Result",
@@ -139,7 +185,12 @@
                                                 0,
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1324",
+                                                    "url": "../fig/1324.jpeg"
+                                                }
+                                            ]
                                         },
                                         "Werken op volledige rijbaan": {
                                             "result": "Result",
@@ -152,7 +203,12 @@
                                             "price_for_workers": [
                                                 0
                                             ],
-                                            "figures": [{"name": "Fig. 1324", "url": "../fig/1324.jpeg"}]
+                                            "figures": [
+                                                {
+                                                    "name": "Fig. 1324",
+                                                    "url": "../fig/1324.jpeg"
+                                                }
+                                            ]
                                         }
                                     }
                                 }
@@ -176,27 +232,41 @@
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_per_meter": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                        {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                        {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                        {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1301a",
+                                                                    "url": "../fig/1301a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301b",
+                                                                    "url": "../fig/1301b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301c",
+                                                                    "url": "../fig/1301c.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301d",
+                                                                    "url": "../fig/1301d.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -204,24 +274,38 @@
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_per_meter": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
-                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                        {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                        {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                        {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1301a",
+                                                                    "url": "../fig/1301a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301b",
+                                                                    "url": "../fig/1301b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301c",
+                                                                    "url": "../fig/1301c.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301d",
+                                                                    "url": "../fig/1301d.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -245,8 +329,16 @@
                                                             "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
-                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1303a",
+                                                                    "url": "../fig/1303a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1303b",
+                                                                    "url": "../fig/1303b.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -257,14 +349,21 @@
                                                             "price_per_meter": [
                                                                 0,
                                                                 0
-
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
-                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1303a",
+                                                                    "url": "../fig/1303a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1303b",
+                                                                    "url": "../fig/1303b.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -289,8 +388,16 @@
                                                                 0,
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
-                                                                {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1322b",
+                                                                    "url": "../fig/1322b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1323b",
+                                                                    "url": "../fig/1323b.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -306,8 +413,16 @@
                                                                 0,
                                                                 865
                                                             ],
-                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
-                                                                {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1322b",
+                                                                    "url": "../fig/1322b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1323b",
+                                                                    "url": "../fig/1323b.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -362,7 +477,7 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         51,
                                                                         51
                                                                     ],
@@ -370,7 +485,7 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         330,
                                                                         330
                                                                     ],
@@ -378,19 +493,38 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         0,
                                                                         0
                                                                     ],
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"},
-                                                                                {"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
-                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1301a",
+                                                                            "url": "../fig/1301a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301b",
+                                                                            "url": "../fig/1301b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301c",
+                                                                            "url": "../fig/1301c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301d",
+                                                                            "url": "../fig/1301d.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1302a",
+                                                                            "url": "../fig/1302a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1302b",
+                                                                            "url": "../fig/1302b.jpeg"
+                                                                        }
                                                                     ]
                                                                 },
                                                                 "No": {
@@ -399,7 +533,7 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         51,
                                                                         51
                                                                     ],
@@ -407,7 +541,7 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         0,
                                                                         0
                                                                     ],
@@ -415,16 +549,35 @@
                                                                         0,
                                                                         0,
                                                                         0,
-                                                                        0,
+                                                                        10,
                                                                         330,
                                                                         330
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"},
-                                                                                {"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
-                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1301a",
+                                                                            "url": "../fig/1301a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301b",
+                                                                            "url": "../fig/1301b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301c",
+                                                                            "url": "../fig/1301c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1301d",
+                                                                            "url": "../fig/1301d.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1302a",
+                                                                            "url": "../fig/1302a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1302b",
+                                                                            "url": "../fig/1302b.jpeg"
+                                                                        }
                                                                     ]
                                                                 }
                                                             }
@@ -461,12 +614,31 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
-                                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"},
-                                                                                {"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
-                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
-                                                                                {"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"}
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1303a",
+                                                                            "url": "../fig/1303a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1303b",
+                                                                            "url": "../fig/1303b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1304a",
+                                                                            "url": "../fig/1304a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1304b",
+                                                                            "url": "../fig/1304b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306a",
+                                                                            "url": "../fig/1306a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306b",
+                                                                            "url": "../fig/1306b.jpeg"
+                                                                        }
                                                                     ]
                                                                 },
                                                                 "No": {
@@ -495,12 +667,31 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1303a", "url": "../fig/1303a.jpeg"},
-                                                                                {"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"},
-                                                                                {"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
-                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
-                                                                                {"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"}
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1303a",
+                                                                            "url": "../fig/1303a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1303b",
+                                                                            "url": "../fig/1303b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1304a",
+                                                                            "url": "../fig/1304a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1304b",
+                                                                            "url": "../fig/1304b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306a",
+                                                                            "url": "../fig/1306a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306b",
+                                                                            "url": "../fig/1306b.jpeg"
+                                                                        }
                                                                     ]
                                                                 }
                                                             }
@@ -528,10 +719,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
-                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
-                                                                        ]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1306a",
+                                                                            "url": "../fig/1306a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306b",
+                                                                            "url": "../fig/1306b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306c",
+                                                                            "url": "../fig/1306c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -550,10 +751,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
-                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
-                                                                        ]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1306a",
+                                                                            "url": "../fig/1306a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306b",
+                                                                            "url": "../fig/1306b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1306c",
+                                                                            "url": "../fig/1306c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -616,9 +827,16 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
-                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1302a",
+                                                                                    "url": "../fig/1302a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1302b",
+                                                                                    "url": "../fig/1302b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Result",
@@ -634,9 +852,16 @@
                                                                                 330,
                                                                                 330
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1302a", "url": "../fig/1302a.jpeg"},
-                                                                                {"name": "Fig. 1302b", "url": "../fig/1302b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1302a",
+                                                                                    "url": "../fig/1302a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1302b",
+                                                                                    "url": "../fig/1302b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 },
@@ -666,11 +891,24 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
-                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
-                                                                                {"name": "Fig. 1305a", "url": "../fig/1305a.jpeg"},
-                                                                                {"name": "Fig. 1305b", "url": "../fig/1305b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1304a",
+                                                                                    "url": "../fig/1304a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1304b",
+                                                                                    "url": "../fig/1304b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1305a",
+                                                                                    "url": "../fig/1305a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1305b",
+                                                                                    "url": "../fig/1305b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Result",
@@ -692,11 +930,24 @@
                                                                                 0,
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1304a", "url": "../fig/1304a.jpeg"},
-                                                                                {"name": "Fig. 1304b", "url": "../fig/1304b.jpeg"},
-                                                                                {"name": "Fig. 1305a", "url": "../fig/1305a.jpeg"},
-                                                                                {"name": "Fig. 1305b", "url": "../fig/1305b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1304a",
+                                                                                    "url": "../fig/1304a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1304b",
+                                                                                    "url": "../fig/1304b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1305a",
+                                                                                    "url": "../fig/1305a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1305b",
+                                                                                    "url": "../fig/1305b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 },
@@ -723,10 +974,20 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
-                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1306a",
+                                                                                    "url": "../fig/1306a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1306b",
+                                                                                    "url": "../fig/1306b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1306c",
+                                                                                    "url": "../fig/1306c.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Result",
@@ -745,10 +1006,20 @@
                                                                                 0,
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1306a", "url": "../fig/1306a.jpeg"},
-                                                                                {"name": "Fig. 1306b", "url": "../fig/1306b.jpeg"},
-                                                                                {"name": "Fig. 1306c", "url": "../fig/1306c.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1306a",
+                                                                                    "url": "../fig/1306a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1306b",
+                                                                                    "url": "../fig/1306b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1306c",
+                                                                                    "url": "../fig/1306c.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 },
@@ -808,9 +1079,16 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Result",
@@ -826,9 +1104,16 @@
                                                                                 0,
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 },
@@ -855,10 +1140,20 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1307", "url": "../fig/1307.jpeg"},
-                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1307",
+                                                                                    "url": "../fig/1307.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Result",
@@ -877,10 +1172,20 @@
                                                                                 0,
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1307", "url": "../fig/1307.jpeg"},
-                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1307",
+                                                                                    "url": "../fig/1307.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 },
@@ -910,11 +1215,24 @@
                                                                             "price_for_lights": [
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1308a", "url": "../fig/1308a.jpeg"},
-                                                                                {"name": "Fig. 1308b", "url": "../fig/1308b.jpeg"},
-                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1308a",
+                                                                                    "url": "../fig/1308a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1308b",
+                                                                                    "url": "../fig/1308b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         },
                                                                         "No": {
                                                                             "result": "Fig. 1308a, Fig. 1308b, Fig. 1309a, Fig. 1309b",
@@ -936,11 +1254,24 @@
                                                                                 0,
                                                                                 0
                                                                             ],
-                                                                            "figures": [{"name": "Fig. 1308a", "url": "../fig/1308a.jpeg"},
-                                                                                {"name": "Fig. 1308b", "url": "../fig/1308b.jpeg"},
-                                                                                {"name": "Fig. 1309a", "url": "../fig/1309a.jpeg"},
-                                                                                {"name": "Fig. 1309b", "url": "../fig/1309b.jpeg"}
-                                                                        ]
+                                                                            "figures": [
+                                                                                {
+                                                                                    "name": "Fig. 1308a",
+                                                                                    "url": "../fig/1308a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1308b",
+                                                                                    "url": "../fig/1308b.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309a",
+                                                                                    "url": "../fig/1309a.jpeg"
+                                                                                },
+                                                                                {
+                                                                                    "name": "Fig. 1309b",
+                                                                                    "url": "../fig/1309b.jpeg"
+                                                                                }
+                                                                            ]
                                                                         }
                                                                     }
                                                                 }
@@ -967,28 +1298,41 @@
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_per_meter": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}
-                                                                        ]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1301a",
+                                                                    "url": "../fig/1301a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301b",
+                                                                    "url": "../fig/1301b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301c",
+                                                                    "url": "../fig/1301c.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301d",
+                                                                    "url": "../fig/1301d.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -996,25 +1340,38 @@
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_per_meter": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
                                                             "price_for_workers": [
                                                                 0,
                                                                 0,
                                                                 0,
-                                                                0
+                                                                10
                                                             ],
-                                                            "figures": [{"name": "Fig. 1301a", "url": "../fig/1301a.jpeg"},
-                                                                                {"name": "Fig. 1301b", "url": "../fig/1301b.jpeg"},
-                                                                                {"name": "Fig. 1301c", "url": "../fig/1301c.jpeg"},
-                                                                                {"name": "Fig. 1301d", "url": "../fig/1301d.jpeg"}
-                                                                        ]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1301a",
+                                                                    "url": "../fig/1301a.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301b",
+                                                                    "url": "../fig/1301b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301c",
+                                                                    "url": "../fig/1301c.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1301d",
+                                                                    "url": "../fig/1301d.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -1035,7 +1392,12 @@
                                                             "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1303b",
+                                                                    "url": "../fig/1303b.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -1048,7 +1410,12 @@
                                                             "price_for_workers": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1303b", "url": "../fig/1303b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1303b",
+                                                                    "url": "../fig/1303b.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -1072,8 +1439,16 @@
                                                             "price_for_lights": [
                                                                 0
                                                             ],
-                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
-                                                            {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1322b",
+                                                                    "url": "../fig/1322b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1323b",
+                                                                    "url": "../fig/1323b.jpeg"
+                                                                }
+                                                            ]
                                                         },
                                                         "No": {
                                                             "result": "Result",
@@ -1089,8 +1464,16 @@
                                                                 0,
                                                                 865
                                                             ],
-                                                            "figures": [{"name": "Fig. 1322b", "url": "../fig/1322b.jpeg"},
-                                                            {"name": "Fig. 1323b", "url": "../fig/1323b.jpeg"}]
+                                                            "figures": [
+                                                                {
+                                                                    "name": "Fig. 1322b",
+                                                                    "url": "../fig/1322b.jpeg"
+                                                                },
+                                                                {
+                                                                    "name": "Fig. 1323b",
+                                                                    "url": "../fig/1323b.jpeg"
+                                                                }
+                                                            ]
                                                         }
                                                     }
                                                 },
@@ -1156,9 +1539,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures":  [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
-                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
-                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1331a",
+                                                                            "url": "../fig/1331a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331b",
+                                                                            "url": "../fig/1331b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331c",
+                                                                            "url": "../fig/1331c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -1177,9 +1571,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
-                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
-                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1331a",
+                                                                            "url": "../fig/1331a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331b",
+                                                                            "url": "../fig/1331b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331c",
+                                                                            "url": "../fig/1331c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1206,9 +1611,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures":[{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
-                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
-                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1332a",
+                                                                            "url": "../fig/1332a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332b",
+                                                                            "url": "../fig/1332b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332c",
+                                                                            "url": "../fig/1332c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -1227,9 +1643,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
-                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
-                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1332a",
+                                                                            "url": "../fig/1332a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332b",
+                                                                            "url": "../fig/1332b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332c",
+                                                                            "url": "../fig/1332c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1277,16 +1704,48 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
-                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
-                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
-                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
-                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
-                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
-                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
-                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
-                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
-                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1333a",
+                                                                            "url": "../fig/1333a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333b",
+                                                                            "url": "../fig/1333b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333c",
+                                                                            "url": "../fig/1333c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334a",
+                                                                            "url": "../fig/1334a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334b",
+                                                                            "url": "../fig/1334b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335a",
+                                                                            "url": "../fig/1335a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335b",
+                                                                            "url": "../fig/1335b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341a",
+                                                                            "url": "../fig/1341a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341b",
+                                                                            "url": "../fig/1341b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1342",
+                                                                            "url": "../fig/1342.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -1326,16 +1785,48 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
-                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
-                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
-                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
-                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
-                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
-                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
-                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
-                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
-                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1333a",
+                                                                            "url": "../fig/1333a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333b",
+                                                                            "url": "../fig/1333b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333c",
+                                                                            "url": "../fig/1333c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334a",
+                                                                            "url": "../fig/1334a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334b",
+                                                                            "url": "../fig/1334b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335a",
+                                                                            "url": "../fig/1335a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335b",
+                                                                            "url": "../fig/1335b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341a",
+                                                                            "url": "../fig/1341a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341b",
+                                                                            "url": "../fig/1341b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1342",
+                                                                            "url": "../fig/1342.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1362,9 +1853,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
-                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
-                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1336a",
+                                                                            "url": "../fig/1336a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336b",
+                                                                            "url": "../fig/1336b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336c",
+                                                                            "url": "../fig/1336c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -1383,9 +1885,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
-                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
-                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1336a",
+                                                                            "url": "../fig/1336a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336b",
+                                                                            "url": "../fig/1336b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336c",
+                                                                            "url": "../fig/1336c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         }
@@ -1417,9 +1930,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
-                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
-                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1331a",
+                                                                            "url": "../fig/1331a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331b",
+                                                                            "url": "../fig/1331b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331c",
+                                                                            "url": "../fig/1331c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Result",
@@ -1438,9 +1962,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1331a", "url": "../fig/1331a.jpeg"},
-                                                                                {"name": "Fig. 1331b", "url": "../fig/1331b.jpeg"},
-                                                                                {"name": "Fig. 1331c", "url": "../fig/1331c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1331a",
+                                                                            "url": "../fig/1331a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331b",
+                                                                            "url": "../fig/1331b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1331c",
+                                                                            "url": "../fig/1331c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1467,9 +2002,20 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
-                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
-                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1332a",
+                                                                            "url": "../fig/1332a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332b",
+                                                                            "url": "../fig/1332b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332c",
+                                                                            "url": "../fig/1332c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "result",
@@ -1488,9 +2034,20 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1332a", "url": "../fig/1332a.jpeg"},
-                                                                                {"name": "Fig. 1332b", "url": "../fig/1332b.jpeg"},
-                                                                                {"name": "Fig. 1332c", "url": "../fig/1332c.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1332a",
+                                                                            "url": "../fig/1332a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332b",
+                                                                            "url": "../fig/1332b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1332c",
+                                                                            "url": "../fig/1332c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1538,16 +2095,48 @@
                                                                     "price_for_lights": [
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
-                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
-                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
-                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
-                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
-                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
-                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
-                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
-                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
-                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1333a",
+                                                                            "url": "../fig/1333a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333b",
+                                                                            "url": "../fig/1333b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333c",
+                                                                            "url": "../fig/1333c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334a",
+                                                                            "url": "../fig/1334a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334b",
+                                                                            "url": "../fig/1334b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335a",
+                                                                            "url": "../fig/1335a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335b",
+                                                                            "url": "../fig/1335b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341a",
+                                                                            "url": "../fig/1341a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341b",
+                                                                            "url": "../fig/1341b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1342",
+                                                                            "url": "../fig/1342.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Results",
@@ -1587,16 +2176,48 @@
                                                                         0,
                                                                         0
                                                                     ],
-                                                                    "figures": [{"name": "Fig. 1333a", "url": "../fig/1333a.jpeg"},
-                                                                                {"name": "Fig. 1333b", "url": "../fig/1333b.jpeg"},
-                                                                                {"name": "Fig. 1333c", "url": "../fig/1333c.jpeg"},
-                                                                                {"name": "Fig. 1334a", "url": "../fig/1334a.jpeg"},
-                                                                                {"name": "Fig. 1334b", "url": "../fig/1334b.jpeg"},
-                                                                                {"name": "Fig. 1335a", "url": "../fig/1335a.jpeg"},
-                                                                                {"name": "Fig. 1335b", "url": "../fig/1335b.jpeg"},
-                                                                                {"name": "Fig. 1341a", "url": "../fig/1341a.jpeg"},
-                                                                                {"name": "Fig. 1341b", "url": "../fig/1341b.jpeg"},
-                                                                                {"name": "Fig. 1342", "url": "../fig/1342.jpeg"}]
+                                                                    "figures": [
+                                                                        {
+                                                                            "name": "Fig. 1333a",
+                                                                            "url": "../fig/1333a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333b",
+                                                                            "url": "../fig/1333b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1333c",
+                                                                            "url": "../fig/1333c.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334a",
+                                                                            "url": "../fig/1334a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1334b",
+                                                                            "url": "../fig/1334b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335a",
+                                                                            "url": "../fig/1335a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1335b",
+                                                                            "url": "../fig/1335b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341a",
+                                                                            "url": "../fig/1341a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1341b",
+                                                                            "url": "../fig/1341b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1342",
+                                                                            "url": "../fig/1342.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         },
@@ -1624,9 +2245,19 @@
                                                                         0
                                                                     ],
                                                                     "figures": [
-                                                                                {"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
-                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
-                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
+                                                                        {
+                                                                            "name": "Fig. 1336a",
+                                                                            "url": "../fig/1336a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336b",
+                                                                            "url": "../fig/1336b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336c",
+                                                                            "url": "../fig/1336c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 },
                                                                 "No": {
                                                                     "result": "Results",
@@ -1646,9 +2277,19 @@
                                                                         0
                                                                     ],
                                                                     "figures": [
-                                                                                {"name": "Fig. 1336a", "url": "../fig/1336a.jpeg"},
-                                                                                {"name": "Fig. 1336b", "url": "../fig/1336b.jpeg"},
-                                                                                {"name": "Fig. 1336c", "url": "../fig/1336c.jpeg"}]
+                                                                        {
+                                                                            "name": "Fig. 1336a",
+                                                                            "url": "../fig/1336a.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336b",
+                                                                            "url": "../fig/1336b.jpeg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Fig. 1336c",
+                                                                            "url": "../fig/1336c.jpeg"
+                                                                        }
+                                                                    ]
                                                                 }
                                                             }
                                                         }

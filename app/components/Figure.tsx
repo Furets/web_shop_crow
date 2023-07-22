@@ -35,7 +35,7 @@ const Figure: React.FC<FigureProps> = (props) => {
         <li>Price: {Math.round(props.figure.price)}</li>
         <li>Price Per Meter: {Math.round(pricePerMeter)}</li>
         <li>Price For Lights: {Math.round(priceForLights)}</li>
-        <li>Price For Workers: {Math.round(priceForWorkers)}</li>
+        <li>Price For Worker Hour: {Math.round(priceForWorkers)}</li>
         <li>Total price: {Math.round(totalPrice)}</li>
       </ul>
 
